@@ -18,8 +18,12 @@ Linguagens e Ferramentas que utilizo:
 Redes Sociais:
 <br>
 <br>
+<a href="https://www.instagram.com/_klingersouza/">
 <img Src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/klinger-de-souza-cruz-6a6789232/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a/>
 <br>
 <br>
 [![my stats](https://github-readme-stats.vercel.app/api?username=KlingerSouza)](https://github.com/anuraghazra/github-readme-stats)
