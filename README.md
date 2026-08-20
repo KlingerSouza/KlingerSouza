@@ -1,13 +1,12 @@
 # Olá, eu sou o Klinger! 👋
 
-Sou desenvolvedor **Full Stack em formação**, focado em construir aplicações úteis, organizadas e fáceis de manter.
+Sou desenvolvedor **Full Stack**, focado em construir aplicações úteis, organizadas e fáceis de manter.
 
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, Git, GitHub e JavaScript. Também utilizo **Inteligência Artificial como ferramenta de apoio ao desenvolvimento**, mantendo atenção à validação do código, segurança, testes e boas práticas.
 
 ## Sobre mim
 
-- 💻 Desenvolvendo habilidades em Front-end e Back-end
-- 📚 Estudando JavaScript e o ecossistema Full Stack
+- 💻 Desenvolvendo projetos com habilidades que possuo em Front-end, Back-end, JavaScript e o ecossistema Full Stack
 - 🤖 Aplicando IA no planejamento, implementação, revisão e documentação de projetos
 - 🧪 Interessado em código limpo, testes automatizados e boas práticas
 - 🔄 Utilizando Git e GitHub para versionamento e colaboração
